@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "888264639711",
+    "firebase_url": "https://depozite-e-cep.firebaseio.com",
+    "project_id": "depozite-e-cep",
+    "storage_bucket": "depozite-e-cep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888264639711:android:8eb5e94c2e5a248b",
+        "android_client_info": {
+          "package_name": "com.kubra.depcep1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888264639711-7q79j5pjnbnucvpdjl78caqf2mq8cnvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubra.depcep1",
+            "certificate_hash": "6da0051f8524cf303ac4b50669e6e4b41648e571"
+          }
+        },
+        {
+          "client_id": "888264639711-6indlqs36ga77kujk5se2js54mpoua6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd45AjHstteE_3mi-Ca_CHvdGayinz6Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888264639711-6indlqs36ga77kujk5se2js54mpoua6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

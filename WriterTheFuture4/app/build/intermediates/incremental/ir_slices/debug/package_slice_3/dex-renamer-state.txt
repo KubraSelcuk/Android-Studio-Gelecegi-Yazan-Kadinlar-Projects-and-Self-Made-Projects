@@ -1,0 +1,4 @@
+#Thu Apr 25 14:50:22 EET 2019
+base.0=C\:\\Users\\Kubra\\AndroidStudioProjects\\WriterTheFuture4\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

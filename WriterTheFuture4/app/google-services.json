@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "165202840460",
+    "firebase_url": "https://writerthefuture4.firebaseio.com",
+    "project_id": "writerthefuture4",
+    "storage_bucket": "writerthefuture4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165202840460:android:9676117f38545de9",
+        "android_client_info": {
+          "package_name": "com.example.writerthefuture4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165202840460-ainu9jar7p9rklp11q4a9paps5v39hde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.writerthefuture4",
+            "certificate_hash": "ec05b19eb8bb91e25e52aea86ea9b3707ccde222"
+          }
+        },
+        {
+          "client_id": "165202840460-178s4u2oecsb58ktv4vhvc5fcvs02ui5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqH9-_qfCcPdWjLaWudPNg08W5mnjT3iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165202840460-178s4u2oecsb58ktv4vhvc5fcvs02ui5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

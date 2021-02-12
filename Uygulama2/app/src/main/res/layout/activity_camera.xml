@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_margin="20dp"
+    tools:context="com.example.uygulama2.CameraActivity">
+    <ImageView
+        android:background="#000000"
+        android:id="@+id/ivPhoto"
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+    <VideoView
+        android:layout_marginTop="10dp"
+        android:id="@+id/vwVideo"
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:textColor="#ffffff"
+            android:padding="10dp"
+            android:layout_margin="5dp"
+            android:background="#01579B"
+            android:text="Fotoğraf Çek"
+            android:id="@+id/btnFotograf"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:textColor="#ffffff"
+            android:padding="10dp"
+            android:layout_margin="5dp"
+            android:background="#B71C1C"
+            android:text="Video Kaydet"
+            android:id="@+id/btnVideo"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+
+
+    <EditText
+        android:id="@+id/editTextPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:digits="05443766926"
+        android:ems="10"
+        android:hint="Telefon numaranızı giriniz"
+        android:inputType="phone"/>
+
+    <Button
+        android:id="@+id/buttonGetVerificationCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kod gonder"
+        android:textAllCaps="false"/>
+
+    <EditText
+        android:id="@+id/editTextCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:digits="05443766926"
+        android:hint="Kodu giriniz"
+        android:inputType="number"/>
+
+    <Button
+        android:id="@+id/buttonlogin"
+        android:layout_marginTop="460dp"
+        android:text="Giriş yap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+ </LinearLayout>
+</RelativeLayout>

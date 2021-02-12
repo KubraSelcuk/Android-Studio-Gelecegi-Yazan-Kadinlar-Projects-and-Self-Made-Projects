@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Diet App</string>
+    <string name="title_home">Home</string>
+    <string name="title_health">Health</string>
+    <string name="title_dietlist">Diet List</string>
+    <string name="health_text">When the calories needed by the body are not met or, in other words, a low-calorie diet is applied, the body becomes scarce as it adapts to this diet. The body begins to consume less energy by lowering its metabolic rate. This causes the weight to be given in a very short period of time when the diet is discontinued.
+        \n\n
+        Permanent weight loss is achieved through a healthy weight loss list. Nutritional programs focusing on lifestyle changes enable learning balanced and healthy nutrition and support the implementation of a lifelong physical activity program.
+        \n\n
+        The portion amounts included in the weight loss list are important. When you are practicing your diet, your meals will be prepared frequently and gradually for your blood sugar and appetite. At the same time you can eat your body\'s metabolic time and you can regulate the secretion of insulin at certain hours. Thus, your metabolic rate increases.</string>
+    <string name="length">Length</string>
+    <string name="weight">Weight</string>
+    <string name="calculate">Calculate</string>
+
+</resources>

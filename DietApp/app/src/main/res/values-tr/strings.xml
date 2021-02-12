@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Diyet Uygulaması</string>
+    <string name="title_home">Ana Sayfa</string>
+    <string name="title_health">Sağlık</string>
+    <string name="title_dietlist">Diyet Listesi</string>
+    <string name="health_text">Vücudun ihtiyaç duyduğu kalori karşılanmadığında ya da başka bir deyişle düşük kalorili bir diyet uygulandığında vücut bu diyete adapte olarak kıtlık duygusuna kapılır. Vücut, metabolizma hızını düşürerek daha az enerji harcamaya başlar. Bu durum, diyet bırakıldığında çok kısa bir süre içinde verilen kilonun fazlasıyla geri alınmasına sebep olur.Sağlıklı bir zayıflama listesi ile kalıcı kilo verme sağlanır.
+        \n\n
+        Yaşam tarzında değişikliklere odaklı hazırlanan beslenme programları dengeli ve sağlıklı beslenmenin öğrenilmesini sağlar ve yaşam boyu fiziksel aktivite programı uygulanmasını destekler.
+        \n\n
+        Zayıflama listesi içeriğinde yer alan porsiyon miktarları önemlidir. Diyetinizi uygularken kan şekerinizin ve iştahınızın kontrolü için sık sık ve azar azar öğünler hazırlanır. Aynı saatlerde yemek yiyerek vücudunuzun metabolik saatini düzenleyebilir ve belirli saatlerde insülin salgılanmasını sağlayabilirsiniz. Böylece metabolizma hızınız artar.</string>
+    <string name="length">Boy</string>
+    <string name="weight">Kilo</string>
+    <string name="calculate">Hesapla</string>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+    <ImageView
+        android:id="@+id/imageView"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:src="@drawable/unnamed" />
+
+
+        <EditText
+
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:drawableLeft="@drawable/ic_action_name"
+
+            android:hint="E-posta adresi"
+            android:textColorLink="@android:color/background_light" />
+
+
+        <EditText
+            android:layout_width="250dp"
+
+
+            android:layout_height="wrap_content"
+            android:hint="Sifre"
+            android:drawableLeft="@drawable/ic_action_pass"
+
+            android:inputType="textPassword"
+            android:singleLine="true"
+            />
+
+        <Button
+            android:id="@+id/btnGiris"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:background="#394AB3"
+            android:text="Giris yap"
+            android:textAllCaps="false"
+            android:textColor="#FFFFFF"
+            android:textColorLink="@android:color/background_light" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:hint="Sifremi unuttum"
+            android:drawablePadding="20dp"
+            android:textColor="#FFFFFF"
+
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="#F8F6F8"
+        android:padding="20dp"
+        android:text="TüM HAKLARI SAKLIDIR"
+        android:textColor="#009688"
+        android:textColorLink="@android:color/background_light"
+        android:textSize="20sp" />
+
+</RelativeLayout>

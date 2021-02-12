@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740491675073",
+    "firebase_url": "https://fir-401-1ab7b.firebaseio.com",
+    "project_id": "fir-401-1ab7b",
+    "storage_bucket": "fir-401-1ab7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740491675073:android:ac72586a0555f169",
+        "android_client_info": {
+          "package_name": "com.eurasiaventures.firebase401"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740491675073-n93lmia662ljbc4clnbaepmksibn8raj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eurasiaventures.firebase401",
+            "certificate_hash": "843c45742909e5d4e9c75019e709788e994eb650"
+          }
+        },
+        {
+          "client_id": "740491675073-n5ravgqjvj2hjq3vc12tbjm120stc4ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP1Hg5rKptwhpTsGhyVNBwo9timOcKE68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740491675073-n5ravgqjvj2hjq3vc12tbjm120stc4ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
